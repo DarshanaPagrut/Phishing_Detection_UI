@@ -26,7 +26,7 @@ export default function Landing() {
             </p>
             <div className="flex justify-center space-x-4">
               <Link
-                to="/register"
+                to="https://phishing-detection-bfezd0d4frh9ecfr.canadacentral-01.azurewebsites.net/"
                 className="bg-blue-600 text-white px-8 py-4 rounded-xl text-lg font-semibold hover:bg-blue-700 transform hover:scale-105 transition-all duration-200 shadow-lg"
               >
                 Get Started
